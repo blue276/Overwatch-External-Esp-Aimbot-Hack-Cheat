@@ -1,0 +1,301 @@
+D:\Visual studio\hackathon\hackathon\bin\Debug\hackathon.exe.config
+D:\Visual studio\hackathon\hackathon\bin\Debug\hackathon.exe
+D:\Visual studio\hackathon\hackathon\bin\Debug\hackathon.pdb
+D:\Visual studio\hackathon\hackathon\obj\Debug\hackathon.csprojResolveAssemblyReference.cache
+D:\Visual studio\hackathon\hackathon\obj\Debug\FicheInfo.g.cs
+D:\Visual studio\hackathon\hackathon\obj\Debug\MainWindow.g.cs
+D:\Visual studio\hackathon\hackathon\obj\Debug\App.g.cs
+D:\Visual studio\hackathon\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+D:\Visual studio\hackathon\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+D:\Visual studio\hackathon\hackathon\obj\Debug\FicheInfo.baml
+D:\Visual studio\hackathon\hackathon\obj\Debug\MainWindow.baml
+D:\Visual studio\hackathon\hackathon\obj\Debug\hackathon.g.resources
+D:\Visual studio\hackathon\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+D:\Visual studio\hackathon\hackathon\obj\Debug\hackathon.csproj.GenerateResource.Cache
+D:\Visual studio\hackathon\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+D:\Visual studio\hackathon\hackathon\obj\Debug\hackathon.exe
+D:\Visual studio\hackathon\hackathon\obj\Debug\hackathon.pdb
+e:\Desktop\hackathon\hackathon\hackathon\bin\Debug\hackathon.exe.config
+e:\Desktop\hackathon\hackathon\hackathon\bin\Debug\hackathon.exe
+e:\Desktop\hackathon\hackathon\hackathon\bin\Debug\hackathon.pdb
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\hackathon.csprojAssemblyReference.cache
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\FicheInfo.g.cs
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\MainWindow.g.cs
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\App.g.cs
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\FicheInfo.baml
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\MainWindow.baml
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\hackathon.g.resources
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\hackathon.exe
+e:\Desktop\hackathon\hackathon\hackathon\obj\Debug\hackathon.pdb
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\bin\Debug\hackathon.exe.config
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\bin\Debug\hackathon.exe
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\bin\Debug\hackathon.pdb
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.csprojResolveAssemblyReference.cache
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\FicheInfo.g.cs
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\MainWindow.g.cs
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\App.g.cs
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\FicheInfo.baml
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\MainWindow.baml
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.g.resources
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.exe
+D:\Dropbox\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\bin\Debug\hackathon.exe.config
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\bin\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\bin\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.csprojAssemblyReference.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\FicheInfo.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\MainWindow.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\App.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\FicheInfo.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\MainWindow.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.g.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.pdb
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\bin\Debug\hackathon.exe.config
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\bin\Debug\hackathon.exe
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\bin\Debug\hackathon.pdb
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.csprojResolveAssemblyReference.cache
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\FicheInfo.g.cs
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\MainWindow.g.cs
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\App.g.cs
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\FicheInfo.baml
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\MainWindow.baml
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.g.resources
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.exe
+d:\Desktop\Hackaton francois - Copie\Hackaton\Hackaton_interface\hackathon\obj\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\bin\Debug\hackathon.exe.config
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\bin\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\bin\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\hackathon.csprojAssemblyReference.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\FicheInfo.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\MainWindow.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\App.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\FicheInfo.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\MainWindow.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\hackathon.g.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton_image\hackathon\obj\Debug\hackathon.pdb
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\bin\Debug\hackathon.exe.config
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\bin\Debug\hackathon.exe
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\bin\Debug\hackathon.pdb
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\hackathon.csprojResolveAssemblyReference.cache
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\FicheInfo.g.cs
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\MainWindow.g.cs
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\App.g.cs
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\FicheInfo.baml
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\MainWindow.baml
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\hackathon.g.resources
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\hackathon.exe
+d:\Desktop\Hackaton\François\V4\Hackaton_image\hackathon\obj\Debug\hackathon.pdb
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\bin\Debug\hackathon.exe.config
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\bin\Debug\hackathon.exe
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\bin\Debug\hackathon.pdb
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.csprojAssemblyReference.cache
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\FicheInfo.g.cs
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\MainWindow.g.cs
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\App.g.cs
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\FicheInfo.baml
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\MainWindow.baml
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.g.resources
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.exe
+E:\Dropbox\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.pdb
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\bin\Debug\hackathon.exe.config
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\bin\Debug\hackathon.exe
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\bin\Debug\hackathon.pdb
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.csprojAssemblyReference.cache
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\FicheInfo.g.cs
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\MainWindow.g.cs
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\App.g.cs
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\FicheInfo.baml
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\MainWindow.baml
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.g.resources
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.exe
+e:\Desktop\Hackaton\Assemblé\V4\Hackaton\hackathon\obj\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\bin\Debug\hackathon.exe.config
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\bin\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\bin\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\hackathon.csprojAssemblyReference.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\FicheInfo.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\MainWindow.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\App.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\FicheInfo.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\MainWindow.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\hackathon.g.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_mehdi\V4_mehdi\Hackaton\hackathon\obj\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\bin\Debug\hackathon.exe.config
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\bin\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\bin\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.csprojAssemblyReference.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\FicheInfo.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\MainWindow.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\App.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\FicheInfo.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\MainWindow.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.g.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\bin\Debug\hackathon.exe.config
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\bin\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\bin\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.csprojAssemblyReference.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\FicheInfo.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\MainWindow.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\App.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\FicheInfo.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\MainWindow.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.g.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\V4_Francois\V4_Francois\V4_Francois\Hackaton\hackathon\obj\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\bin\Debug\hackathon.exe.config
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\bin\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\bin\Debug\hackathon.pdb
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\hackathon.csprojAssemblyReference.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\FicheInfo.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\MainWindow.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\App.g.cs
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\FicheInfo.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\MainWindow.baml
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\hackathon.g.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\hackathon.exe
+D:\Ecole\Bac 1\Q2\Hackathon\Hackaton\Hackaton Francois V5\Hackaton Francois\hackathon\obj\Debug\hackathon.pdb
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\bin\Debug\hackathon.exe.config
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\bin\Debug\hackathon.exe
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\bin\Debug\hackathon.pdb
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\hackathon.csprojResolveAssemblyReference.cache
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\FicheInfo.g.cs
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\MainWindow.g.cs
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\App.g.cs
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\FicheInfo.baml
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\MainWindow.baml
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\hackathon.g.resources
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\hackathon.exe
+d:\Desktop\Hackaton Francois V6\Hackaton Francois V6\Hackaton Francois\hackathon\obj\Debug\hackathon.pdb
+d:\Desktop\Hackaton 1.0\hackathon\bin\Debug\hackathon.exe.config
+d:\Desktop\Hackaton 1.0\hackathon\bin\Debug\hackathon.exe
+d:\Desktop\Hackaton 1.0\hackathon\bin\Debug\hackathon.pdb
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\hackathon.csprojResolveAssemblyReference.cache
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\FicheInfo.g.cs
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\MainWindow.g.cs
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\App.g.cs
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\FicheInfo.baml
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\MainWindow.baml
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\hackathon.g.resources
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\hackathon.exe
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\hackathon.pdb
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\Info.g.cs
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\Login.g.cs
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\Info.baml
+d:\Desktop\Hackaton 1.0\hackathon\obj\Debug\Login.baml
+d:\Desktop\Hackaton 1.1\hackathon\bin\Debug\hackathon.exe.config
+d:\Desktop\Hackaton 1.1\hackathon\bin\Debug\hackathon.exe
+d:\Desktop\Hackaton 1.1\hackathon\bin\Debug\hackathon.pdb
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\hackathon.csprojResolveAssemblyReference.cache
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\FicheInfo.g.cs
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\Info.g.cs
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\Login.g.cs
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\MainWindow.g.cs
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\App.g.cs
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\FicheInfo.baml
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\Info.baml
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\Login.baml
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\MainWindow.baml
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\hackathon.g.resources
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\hackathon.csproj.GenerateResource.cache
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\hackathon.exe
+d:\Desktop\Hackaton 1.1\hackathon\obj\Debug\hackathon.pdb
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\bin\Debug\hackathon.exe.config
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\bin\Debug\hackathon.exe
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\bin\Debug\hackathon.pdb
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\hackathon.csprojResolveAssemblyReference.cache
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\FicheInfo.g.cs
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\Info.g.cs
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\Login.g.cs
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\MainWindow.g.cs
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\App.g.cs
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\hackathon_MarkupCompile.cache
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\hackathon_MarkupCompile.lref
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\FicheInfo.baml
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\Info.baml
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\Login.baml
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\MainWindow.baml
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\hackathon.g.resources
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\hackathon.Properties.Resources.resources
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\hackathon.csproj.GenerateResource.Cache
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\hackathon.csproj.CoreCompileInputs.cache
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\hackathon.exe
+C:\Users\bdebr\Desktop\FINALE\Hackaton 1.1\hackathon\obj\Debug\hackathon.pdb
